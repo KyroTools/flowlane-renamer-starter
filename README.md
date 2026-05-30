@@ -6,6 +6,12 @@ Bulk File Renamer for Windows – rename thousands of files safely with preview,
 
 Whether you're organizing photos, engineering documents, archives, downloads, or project files, Kyro Renamer helps automate repetitive renaming tasks in seconds.
 
+## Download
+
+Download the latest version:
+
+👉 https://kyrotools.gumroad.com/l/kyro-renamer-starter
+
 ---
 
 ## Features
