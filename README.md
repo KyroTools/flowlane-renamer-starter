@@ -1,10 +1,10 @@
-# Flowlane Renamer Starter
+# Kyro Renamer Starter
 
 ### Bulk File Renamer for Windows
 
 Bulk File Renamer for Windows – rename thousands of files safely with preview, undo, collision detection, and advanced batch operations.
 
-Whether you're organizing photos, engineering documents, archives, downloads, or project files, Flowlane Renamer helps automate repetitive renaming tasks in seconds.
+Whether you're organizing photos, engineering documents, archives, downloads, or project files, Kyro Renamer helps automate repetitive renaming tasks in seconds.
 
 ---
 
@@ -43,7 +43,7 @@ Extract the application files to a folder of your choice.
 Example:
 
 ```text
-C:\Tools\FlowlaneRenamer
+C:\Tools\KyroRenamer
 ```
 
 ---
@@ -60,15 +60,15 @@ Launch either:
 ## 3. Navigate to the Application Folder
 
 ```powershell
-cd C:\Tools\FlowlaneRenamer
+cd C:\Tools\KyroRenamer
 ```
 
 ---
 
-## 4. Launch Flowlane Renamer
+## 4. Launch Kyro Renamer
 
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File .\FlowLane_Renamer_Starter_v1.ps1
+powershell.exe -ExecutionPolicy Bypass -File .\Kyro_Renamer_Starter_v1.ps1
 ```
 
 At startup, you will be asked to select a working directory.
@@ -250,7 +250,7 @@ Preview mode can be enabled or disabled from the main menu.
 
 ## Undo
 
-Flowlane Renamer automatically stores rename operations in JSON log files.
+Kyro Renamer automatically stores rename operations in JSON log files.
 
 The Undo function allows you to revert previous rename operations.
 
@@ -264,7 +264,7 @@ Switch to another folder without restarting the application.
 
 # Safety Features
 
-Flowlane Renamer includes several safeguards:
+Kyro Renamer includes several safeguards:
 
 * Rename preview
 * User confirmation before execution
@@ -319,7 +319,9 @@ Invoice.pdf
 
 # About
 
-**Flowlane Renamer**
+**Kyro Renamer**
 **Bulk File Renamer for Windows**
-Flowlane Relane is part of Flowlane, a is a suite of automation tools designed to eliminate repetitive work on Windows.
+Kyro Renamer is part of a suite of automation tools designed to eliminate repetitive work on Windows.
+Premium version soon available.
+
 Designed by Kyro.
