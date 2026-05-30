@@ -1,4 +1,4 @@
-# FlowLane Renamer v1.0
+# Kyro Renamer v1.0
 # Compatible PowerShell 5.1+
 
 $Script:LogDir = Join-Path $PSScriptRoot "logs"
@@ -146,8 +146,7 @@ function Build-Mapping {
 Clear-Host
     Write-Host ""
     Write-Host "================================" -ForegroundColor Cyan
-    Write-Host "    FlowLane Renamer Starter    "
-	Write-Host "By KyroTools                    " -ForegroundColor Green
+    Write-Host "    Kyro Renamer Starter    "
     Write-Host "================================" -ForegroundColor Cyan
     Write-Host ""
 Set-WorkingFolder
@@ -155,8 +154,7 @@ while ($true) {
 	$previewStatus = if ($Script:PreviewEnabled) { "ON" } else { "OFF" }
     Write-Host ""
     Write-Host "================================" -ForegroundColor Cyan
-    Write-Host "    FlowLane Renamer Starter    "
-	Write-Host "By KyroTools                    " -ForegroundColor Green
+    Write-Host "    Kyro Renamer Starter    "
     Write-Host "================================" -ForegroundColor Cyan
     Write-Host ""
 	Write-Host "Working folder:"
