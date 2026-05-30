@@ -1,0 +1,33 @@
+FLOWFORGE RENAMER – FREE EDITION LICENSE
+
+Copyright (c) 2026 KyroTools
+
+All rights reserved.
+
+Permission is granted to any individual or organization to use FlowForge Renamer Free Edition free of charge for personal or commercial purposes.
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
+
+Under this license, you may:
+
+* Use the software free of charge.
+* Install and run the software on any number of computers.
+* Use the software for personal, educational or commercial work.
+* Modify the software for your own personal use.
+
+You may NOT:
+
+* Sell the software.
+* Redistribute modified versions.
+* Sell modified version.
+* Repackage the software.
+* claim ownership of the original software.
+* Remove copyright notices.
+
+The author retains all intellectual property rights to the software, including all source code, documentation, branding, logos and associated materials.
+
+FlowForge Renamer and all related branding are the property of the author.
+
+The author reserves the right to release future versions under different licensing terms, including commercial editions.
+
+By using this software, you agree to the terms of this license.
