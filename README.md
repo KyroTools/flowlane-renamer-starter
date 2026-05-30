@@ -321,5 +321,5 @@ Invoice.pdf
 
 **Flowlane Renamer**
 **Bulk File Renamer for Windows**
-
-Fast, safe and efficient bulk file renaming.
+Flowlane Relane is part of Flowlane, a is a suite of automation tools designed to eliminate repetitive work on Windows.
+Designed by Kyro.
