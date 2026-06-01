@@ -17,8 +17,6 @@ Download the latest version:
 
 ## Features
 
-### Free Version
-
 * Add prefixes to filenames
 * Add suffixes to filenames
 * Replace text in filenames
@@ -28,6 +26,41 @@ Download the latest version:
 * Optional rename preview
 * Undo previous operations
 * Filename collision detection
+
+---
+## Why Kyro Renamer?
+
+Kyro Renamer is designed for professionals who prefer simple, transparent and portable tools.
+
+### No Installation Required
+
+Kyro Renamer runs directly from PowerShell.
+
+No installer.
+
+No setup wizard.
+
+No registry modifications.
+
+No administrator rights required.
+
+### Fully Transparent
+
+The source code is available and readable.
+
+You can inspect exactly what the tool does before using it.
+
+### Customizable
+
+Need a company-specific naming rule?
+
+Need to integrate the tool into an existing workflow?
+
+Because it is built in PowerShell, you can adapt and extend it to fit your own processes.
+
+### Built for Real Work
+
+Kyro tools are designed for engineers, technical teams, power users and professionals who need practical automation without heavyweight software.
 
 ---
 
