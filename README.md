@@ -75,7 +75,7 @@ No installation required.
 ---
 ## Demo
 
-![Kyro Renamer Demo](assets/Kyro-renamer-starter-demo2.gif)
+![Kyro Renamer Demo](assets/Kyro-renamer-starter-demo3.gif)
 
 ---
 
